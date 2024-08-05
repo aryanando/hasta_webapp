@@ -84794,14 +84794,14 @@ i=A.bk(A.a([i,A.aQ(e,A.bk(A.a([A.bJ(J.aZ(J.S(f.w,a7))==="null"?c:f.dR(J.aZ(J.S(f
 h=A.aQ(e,B.Ns,B.i,e,e,e,e,e,B.au,e,e)
 h=A.bk(A.a([h,A.aQ(e,A.bk(A.a([A.bJ(J.aZ(J.S(f.w,a8))==="null"?c:f.dR(J.aZ(J.S(f.w,a8))),e,e,e,e,e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.at,e,e)],b5),B.a3,B.r,B.l)
 g=A.aQ(e,B.NJ,B.i,e,e,e,e,e,B.au,e,e)
-b4=A.h1(A.Hn(A.dR(A.a([B.GJ,s,r,q,p,o,n,m,l,k,j,i,h,A.bk(A.a([g,A.aQ(e,A.bk(A.a([A.bJ(J.aZ(J.S(f.w,a9))==="null"?c:f.dR(J.aZ(J.S(f.w,a9))),e,e,e,e,e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.at,e,e)],b5),B.a3,B.r,B.l),B.bY,A.bk(A.a([A.aQ(e,A.bk(A.a([A.bJ("Total Potongan: "+f.dR(J.aZ(J.S(f.w,"jumlah_potongan"))),e,e,e,A.i3(e,e,e,e,e,e,e,e,e,e,e,20,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.n0,e,e)],b5),B.a3,B.eo,B.l)],b5),B.n,B.ae,B.bV),b4),e,e)
+b4=A.h1(A.Hn(A.dR(A.a([B.GH,s,r,q,p,o,n,m,l,k,j,i,h,A.bk(A.a([g,A.aQ(e,A.bk(A.a([A.bJ(J.aZ(J.S(f.w,a9))==="null"?c:f.dR(J.aZ(J.S(f.w,a9))),e,e,e,e,e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.at,e,e)],b5),B.a3,B.r,B.l),B.bY,A.bk(A.a([A.aQ(e,A.bk(A.a([A.bJ("Total Potongan: "+f.dR(J.aZ(J.S(f.w,"jumlah_potongan"))),e,e,e,A.i3(e,e,e,e,e,e,e,e,e,e,e,20,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.n0,e,e)],b5),B.a3,B.eo,B.l)],b5),B.n,B.ae,B.bV),b4),e,e)
 s=A.Y(255,255,255,255)
 return A.iO(b0,e,A.aQ(e,A.aQ(e,A.a6I(A.a([B.bY,b3,b4,A.h1(A.Hn(A.dR(A.a([A.f6(e,10,e),A.bk(A.a([A.aQ(e,B.Nt,B.i,e,e,e,e,e,B.au,e,e),A.aQ(e,A.bk(A.a([A.bJ(f.dR(J.aZ(J.S(f.w,"jumlah_diterima"))),e,e,e,A.i3(e,e,e,e,e,e,e,e,e,e,e,24,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],b5),B.n,B.r,B.l),B.i,e,e,e,e,e,B.at,e,e)],b5),B.a3,B.r,B.l),A.f6(e,10,e)],b5),B.n,B.ae,B.bV),s),e,e)],b5),B.ak,!1),B.i,e,e,e,e,e,e,new A.ax(10,10,10,10),e),B.i,e,e,new A.cF(b1,e,e,b2,e,e,e,B.ao),e,e,new A.ax(5,5,5,5),new A.ax(5,5,5,5),e),e,e,e,!1,e,e,e,e)}}
 A.aiL.prototype={
 $0(){this.a.e=this.b},
 $S:0}
 A.aiN.prototype={
-$0(){this.a.w=J.S(this.b,0)},
+$0(){this.a.w=J.S(this.b,1)},
 $S:0}
 A.aiM.prototype={
 $0(){return A.hj(this.a,!1).dI()},
@@ -91361,11 +91361,11 @@ B.fF=new A.bE(9,"PR")
 B.GF=new A.tf(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GG=new A.a6G(0,"threeLine")
 B.zE=new A.m(!0,B.jZ,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vb=new A.b4("Pendapatan",null,B.zE,null,null,null,null,null,null)
-B.zJ=new A.b4("Juli 2024",null,null,null,null,null,null,null,null)
-B.GI=new A.pi(null,B.Vb,B.zJ,null,null,null,null,!0,null,null,null)
 B.V3=new A.b4("Potongan",null,B.zE,null,null,null,null,null,null)
-B.GJ=new A.pi(null,B.V3,B.zJ,null,null,null,null,!0,null,null,null)
+B.zJ=new A.b4("Agustus 2024",null,null,null,null,null,null,null,null)
+B.GH=new A.pi(null,B.V3,B.zJ,null,null,null,null,!0,null,null,null)
+B.Vb=new A.b4("Pendapatan",null,B.zE,null,null,null,null,null,null)
+B.GI=new A.pi(null,B.Vb,B.zJ,null,null,null,null,!0,null,null,null)
 B.GK=A.a(s([0,1]),t.up)
 B.GM=A.a(s([239,191,189]),t.t)
 B.Ii=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
@@ -91422,9 +91422,9 @@ B.o1=A.a(s([B.J6]),t.ss)
 B.d7=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.VD=new A.b4("Beta Tester Release",null,null,null,null,null,null,null,null)
 B.Vg=new A.b4("Anda beruntung menjadi bagian pengembangan APP Ini",null,null,null,null,null,null,null,null)
-B.GH=new A.pi(null,B.VD,B.Vg,null,null,null,null,!0,null,null,null)
+B.GJ=new A.pi(null,B.VD,B.Vg,null,null,null,null,!0,null,null,null)
 B.Zd=new A.ahf(0,"elevated")
-B.Ct=new A.x0(B.k,B.GH,null)
+B.Ct=new A.x0(B.k,B.GJ,null)
 B.I_=A.a(s([B.Ct]),t.p)
 B.o2=A.a(s([0,0,26624,1023,65534,2047,65534,2047]),t.t)
 B.o3=A.a(s(["S","M","T","W","T","F","S"]),t.s)
