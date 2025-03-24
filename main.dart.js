@@ -89978,7 +89978,7 @@ b=J.e(J.F(J.F(d,"shifts"),"next_day"),1)
 if(c&&b){a=new A.ba(Date.now(),0,!1)
 a0=A.jw(J.KM(J.F(d,"valid_date_end"),0,10)+" "+A.k(J.F(J.F(d,"shifts"),"check_out")))
 a1=a.js(a0.cN(18e9))
-if(!(J.F(d,"check_out")!=null||a1))a3.a=d}else if(!(J.F(d,"check_out")!=null||!b))a3.a=d}m.X(new A.aoK(a3,m))}else A.ek("API error: "+A.k(J.F(l.a,"message")))
+if(!(J.F(d,"check_out")!=null||a1))a3.a=d}else if(!(c&&!b))a3.a=d}m.X(new A.aoK(a3,m))}else A.ek("API error: "+A.k(J.F(l.a,"message")))
 n.push(6)
 s=5
 break
